@@ -1,7 +1,7 @@
 // 1.1 Usa querySelector para mostrar por consola el boton con clase .showme
 
-const botonShowMe = document.querySelector(".showme");
-console.log(botonShowMe);
+const buttonShowMe = document.querySelector(".showme");
+console.log(buttonShowMe);
 
 // 1.2
 
